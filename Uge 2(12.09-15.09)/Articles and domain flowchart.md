@@ -1,4 +1,4 @@
-´´´mermaid
+```mermaid
 flowchart TD
     A[Physical domain]
     B[Digital domain]
@@ -15,4 +15,4 @@ flowchart TD
     C --> BC1
 
     C --> C1[FaceGuard]
-´´´
+```
