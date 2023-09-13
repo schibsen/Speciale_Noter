@@ -6,6 +6,18 @@ In general, an ablation study is a set of experiments in which components of a m
 # B
 ### Bi-class classifiers
 these classifiers are trained on both *bona fide presentations* (BPs) and attack presentations
+#I
+### IINC 
+
+$IINC= \frac{1}{3-|\mathbf{U}|}\cdot 
+\begin{cases}
+0 &,\text{if } \overline{\mathbf{M}_\text{gt}} = 0 \text{ and } \overline{\mathbf{M}_\text{att}} = 0\\
+1 &,\text{if } \overline{\mathbf{M}_\text{gt}} = 0 \text{ xor }\, \overline{\mathbf{M}_\text{att}} = 0\\
+\left(2- \frac{|\mathbf{I}|}{| \mathbf{M}_\text{att}|} - \frac{|\mathbf{I}|}{|\mathbf{M}_\text{gt}|}\right)&, \text{ otherwise}
+\end{cases}$
+where $\mathbf{I}$ and $\mathbf{U}$ are the intersection and union between the ground truth map, $\mathbf{M}_\text{gt}$, and the predicted map, $\mathbf{M}_\text{att}$, respectively. 
+$\overline{\mathbf{M}}$ and $|\mathbf{M}|$ are the mean and the $L_1$ norm of $\mathbf{M}$, respectively. 
+The two fractional terms measure the ratio of the area of the intersection w.r.t. the area of each map, respectively. 
 # M
 ### Morphing attack 
 *A morphing attack is a face image which is purposefully manipulated to be matched with the probe images of more than one identity*  \[[[SPL-MAD]]\]
