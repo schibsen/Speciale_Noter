@@ -29,6 +29,13 @@ Binary classification
 - most of the methods handle the PAD problem as a binary classification problem.
 - which overfit to the known attacks resulting in poor generalization to unseen attacks.
 
+One-Class classifiers (OCCs)
+- OCC provides a straightforward way of handling the unseen attack scenario by modelling the distribution of the bona fide class alone !
+- Arashloo et al [22] and Nikisins eta al [23] [[OneClass]] have shown the effectiveness of one class methods against unseen attacks
+    - the performance in known attack protocols was inferior to that of binary classifier, but better for unseen attacks.
+- Xiong et al [24][[OneClass]] used auto-encoders and ine-class classifiers with texture feature extraction, performed worse than CNN methods.
+- 
+
 
 ## Digital 
 ## Adversarial 
