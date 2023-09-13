@@ -19,6 +19,12 @@
 [[Articles and domain flowchart]]
 # Related work in the Single domains 
 ## Physical 
+PAD 2D attacks 
+- [5-9] [[OneClass]]
+
+CNN based methods perform better than feature-based, recently 
+- [[19,10,20,21] [[OneClass]]
+- 
 ## Digital 
 ## Adversarial 
 
