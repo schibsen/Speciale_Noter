@@ -24,7 +24,8 @@
 - [ ] ArcFace
 - [ ] ResNet100
 - [ ] RetinaFace
-
+- [ ] Multi-channel methods, what does that mean ? [[OneClass]] [11-17]
+- [ ] 
 
 # Questions
 - [ ] are faceswap and id swap synonyms ? mathias uses face swap whereas UniFAD uses ID swap. 
