@@ -18,6 +18,9 @@ $IINC= \frac{1}{3-|\mathbf{U}|}\cdot
 where $\mathbf{I}$ and $\mathbf{U}$ are the intersection and union between the ground truth map, $\mathbf{M}_\text{gt}$, and the predicted map, $\mathbf{M}_\text{att}$, respectively. 
 $\overline{\mathbf{M}}$ and $|\mathbf{M}|$ are the mean and the $L_1$ norm of $\mathbf{M}$, respectively. 
 The two fractional terms measure the ratio of the area of the intersection w.r.t. the area of each map, respectively. 
+# L 
+### Leverage 
+use (something) to maximum advantage
 # M
 ### Morphing attack 
 *A morphing attack is a face image which is purposefully manipulated to be matched with the probe images of more than one identity*  \[[[SPL-MAD]]\]
