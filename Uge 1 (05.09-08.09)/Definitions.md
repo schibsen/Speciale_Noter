@@ -1,4 +1,7 @@
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+#A
+### Ablation study
+In general, an ablation study is a set of experiments in which components of a machine learning system are removed/replaced in order to measure the impact of these components on the performance of the system.
 
 # B
 ### Bi-class classifiers
