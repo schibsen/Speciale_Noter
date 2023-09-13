@@ -27,6 +27,8 @@ MAD - Morphing Attack Detection
 MCCNN - Multi-Channel Convolutional Neural Network 
 # N
 NN - Neural Network
+# O 
+OCC - one-class classifiers
 # P
 PAD - Presentation Attack Detection
 PAI - Presentation Attack Instrument
