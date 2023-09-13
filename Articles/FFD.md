@@ -1,4 +1,5 @@
 
+
 #Pub2020
 #JointCNN #DetectionModel #OpenSourceCode #OpenSourceData #BinaryClassification
 # Title 
@@ -47,6 +48,55 @@ Four categories of Digital face manipulation
 Dataset
 - Diverse Fake Face Dataset [[Datasets/DFFD]]
 - 2.6 million images from all four categories 
+1. Real face images 
+	- [[FFHQ]]
+	- [[CelebA]]
+	- [[FaceForensics++]] (1000 videos)
+2. Identity and expression swap 
+	- [[FaceForensics++]] (3000 manipulated videos)
+		- identy swap: [[FaceSwap]] and [[Deepfake]]
+		- expression swap: [[Face2Face]]
+		- identity swap: [[DFL]] (Deep Face Lab) from public website [1]
+3. Attributes mnaipulation
+	- [[FFHQ]] (4000 faces)
+	- [[CelebA]] (2000 face images)
+	- [[FaceAPP]] (28 filters facial attribute manipulation, retouching ??)
+	- [[StarGAN]] (1 CelebA image to 40 generated face images )--> 80000
+		- a GAN based image-to-image translation 
+4. Entire Face synthesis
+	- PGGAN
+	- StyleGAN
+
+Preprocessing of Data 
+- estimate bounding box and 5 landmarks for each image 
+- InsightFace [21]
+
+Implementation details 
+-  backbone networks: XceptionNet [16]
+- VGG16[44]
+- pre-trained on ImageNet
+- fine-tuned on DFFD
+
+Metrics 
+- EER
+- AUC of ROC
+- TDR at FDR of 0.01%
+- TDR at FDR of 0.1%
+- PBCA 
+- IoU
+- Cosine similarity btw. two vectorized maps
+- IINC (novel metric)
+
+IINC 
+>$IINC= \frac{1}{3-|\mathbf{U}|}\cdot 
+\begin{cases}
+0 &,\text{if } \overline{\mathbf{M}_\text{gt}} = 0 \text{ and } \overline{\mathbf{M}_\text{att}} = 0\\
+1 &,\text{if } \overline{\mathbf{M}_\text{gt}} = 0 \text{ xor }\, \overline{\mathbf{M}_\text{att}} = 0\\
+\left(2- \frac{|\mathbf{I}|}{| \mathbf{M}_\text{att}|} - \frac{|\mathbf{I}|}{|\mathbf{M}_\text{gt}|}\right)&, \text{ otherwise}
+\end{cases}$
+>where $\mathbf{I}$ and $\mathbf{U}$ are the intersection and union between the ground truth map, $\mathbf{M}_\text{gt}$, and the predicted map, $\mathbf{M}_\text{att}$, respectively. 
+>$\overline{\mathbf{M}}$ and $|\mathbf{M}|$ are the mean and the $L_1$ norm of $\mathbf{M}$, respectively. 
+>The two fractional terms measure the ratio of the area of the intersection w.r.t. the area of each map, respectively. 
 
 
 Assumption
