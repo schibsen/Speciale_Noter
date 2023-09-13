@@ -5,7 +5,7 @@
 The proportion of attack samples misclassified as bona fides
 ### Bona fide Presentation Classification Error Rate (BPCER)
 
-the proportion of bona fide samples misclassied as attacks. 
+the proportion of bona fide samples misclassified as attacks. 
 
 # Other 
 ### Equal error rate (EER)

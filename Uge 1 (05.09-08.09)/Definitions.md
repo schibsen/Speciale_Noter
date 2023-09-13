@@ -1,3 +1,4 @@
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 
 # B
 ### Bi-class classifiers
@@ -15,3 +16,8 @@ Examples are
 - Support Vector Machines (SVM)
 - Variational Autoencoder (VAE)
 - Single-Objective Generative Adversarial Active Learning (SO-GAAL)
+
+# P 
+
+### Purification
+A pre-processing strategy, that involves automatically removing adversarial perturbations in the input image prior to passing them to a face matcher.

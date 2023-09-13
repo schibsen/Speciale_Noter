@@ -4,53 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "4c938202ff104483",
+        "id": "affd684dface7d38",
         "type": "tabs",
-        "dimension": 63.25503355704698,
         "children": [
-          {
-            "id": "76b1f5e4be8c5847",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logs/12.09.2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "02d45a4026ddbd1e",
-        "type": "tabs",
-        "dimension": 36.74496644295302,
-        "children": [
-          {
-            "id": "01641176775ac5a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Uge 1 (05.09-08.09)/Relevante filer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1540fc6d0a9ec90e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logs/08.09.2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "7fb794a229181362",
             "type": "leaf",
@@ -62,9 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1540fc6d0a9ec90e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Articles/FFD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5d8eec6dffbed14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uge 2(12.09-15.09)/Relevante filer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logs/12.09.2023.md",
+                "file": "Articles/FFD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logs/12.09.2023.md",
+                "file": "Articles/FFD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logs/12.09.2023.md"
+                "file": "Articles/FFD.md"
               }
             }
           },
@@ -209,20 +189,63 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76b1f5e4be8c5847",
+  "floating": {
+    "id": "d5eb5e5c788714a8",
+    "type": "floating",
+    "children": [
+      {
+        "id": "c8289c1cd16148a6",
+        "type": "window",
+        "children": [
+          {
+            "id": "15b5a446771d52fe",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8e3e7abeda289c68",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2347,
+        "y": 28,
+        "width": 788,
+        "height": 1000,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "1540fc6d0a9ec90e",
   "lastOpenFiles": [
-    "Logs/07.09.2023.md",
-    "Logs/08.09.2023.md",
-    "Logs/12.09.2023.md",
-    "Huskelister.md",
-    "Articles/Mathias Article.md",
-    "Uge 2(12.09-15.09)",
-    "Uge 1 (05.09-08.09)/Definitions.md",
-    "Uge 1 (05.09-08.09)/Metrics.md",
-    "Uge 1 (05.09-08.09)/Synonyms.md",
     "Uge 1 (05.09-08.09)/Abbreviations.md",
-    "Uge 1 (05.09-08.09)/Relevante filer.md",
+    "Uge 2(12.09-15.09)/Relevante filer.md",
+    "code.md",
+    "Articles/FFD.md",
+    "Uge 1 (05.09-08.09)/Metrics.md",
+    "cvlab.cse.msu.edu/project-ffd.html.md",
+    "cvlab.cse.msu.edu",
     "Articles/FaceGuard.md",
+    "Articles/UniFAD.md",
+    "Articles/SSRFCN.md",
+    "Articles/SPL-MAD.md",
+    "Articles/One-Class.md",
+    "Articles/Mathias Article.md",
+    "Logs/12.09.2023.md",
+    "Uge 1 (05.09-08.09)/Definitions.md",
+    "Uge 1 (05.09-08.09)/Relevante filer.md",
+    "Huskelister.md",
+    "Logs/08.09.2023.md",
+    "Uge 2(12.09-15.09)",
+    "Logs/07.09.2023.md",
+    "Uge 2(12.09-15.09)",
+    "Uge 1 (05.09-08.09)/Synonyms.md",
     "Articles/PDF Articles.zip",
     "Datasets/PDF Articles Datasets.zip",
     "Datasets/PDF Articles.zip",
@@ -235,18 +258,8 @@
     "Datasets/MorGAN-LMA.md",
     "Datasets/MorGAN-GAN.md",
     "Datasets/LMA-DRD (PS).md",
-    "Datasets/LMA-DRD (D).md",
-    "Datasets/LFW.md",
-    "Datasets/GrandFake.md",
-    "Datasets/FERET.md",
-    "Datasets/FERET-Morphs.md",
-    "Datasets/Face Research London Lab.md",
-    "Datasets/CelebA.md",
-    "Datasets/CASIA-WebFace.md",
     "Datasets/PDF Articles/SiW-M Deep Tree Learning for Zero-shot Face Anti-Spoofing.pdf",
     "Datasets/PDF Articles/SiW-M Deep Tree Learning for Zero-shot Face Anti-Spoofing.pdf.opdownload",
-    "Datasets/PDF Articles/FFHQ A Style-Based Generator Architecture for Generative Adversarial Networks.pdf",
-    "Datasets/PDF Articles/FFHQ A Style-Based Generator Architecture for Generative Adversarial Networks.pdf.opdownload",
     "Praktisk/Screenshot fra intro møde med darmstadt.png"
   ]
 }
