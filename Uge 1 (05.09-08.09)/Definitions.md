@@ -33,6 +33,9 @@ Examples are
 - Single-Objective Generative Adversarial Active Learning (SO-GAAL)
 
 # P 
+### Presentation attack
+Presentation attack refers to an attack using an instrument with the intention to affect the normal operation of the biometric system 
+These attacks are in the physical domain, as they do not use software to manipulate an image. 
 
 ### Purification
 A pre-processing strategy, that involves automatically removing adversarial perturbations in the input image prior to passing them to a face matcher.
