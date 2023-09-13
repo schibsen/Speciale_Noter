@@ -6,6 +6,8 @@ APCER - Attack Presentation Classification Error Rate
 AUC - Area under Curve (usually of ROC)
 # B
 BPCER - Bona fide Presentation Classification Error Rate
+# C
+CNN - Convolutional Neural Network
 # D
 D-EER - Detection Equal Error Rate
 DET - Detection Error Tradeoff
@@ -22,6 +24,9 @@ IINC - Inverse Intersection Non-Containment [[FFD]]
 IoU - Intersection over Union
 # M
 MAD - Morphing Attack Detection 
+MCCNN - Multi-Channel Convolutional Neural Network 
+# N
+NN - Neural Network
 # P
 PAD - Presentation Attack Detection
 PAI - Presentation Attack Instrument
