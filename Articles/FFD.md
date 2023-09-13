@@ -1,6 +1,6 @@
 
 #Pub2020
-#JointCNN #DetectionModel #OpenSourceCode #OpenSourceData
+#JointCNN #DetectionModel #OpenSourceCode #OpenSourceData #BinaryClassification
 # Title 
 On the Detection of Digital Face Manipulation
 
@@ -66,6 +66,35 @@ Contributions
 - a novel attention-based layer to improve classification performance and produce an attention map indicating the manipulated facial regions 
 - A novel metric, termed Inverse Intersection Non-Containment (IINC) for evaluating attention maps that produces a more coherent evaluation than existing metrics.
 - SOTA performance of digital facial forgery detection for both seen and unseen manipulation methods 
+
+Related work
+- graphic based approaches 
+	- identity or expression transfer 
+	- Thies et al. [46] - expression swap
+	- Face2Face[47] - expression 
+	- Extended work[27] - head position, rotation, expression and eye blinking transfer
+	- "Synthesizing Obama" [45] animates face(output) based on audio signal(input) (Not sure if it is placed right)
+	- FaceSwap[?] identity swap, expression preservation
+- Deep learning techniques 
+	- ZAO [5]
+	- FaceAPP [4]
+	- GAN-based methods [25,26,49]
+
+Fake Face Benchmarks, i.e. Datasets ? ??
+- Zhou et al. [61], face swapped images
+- FaceForensics(++)[41,42], video-based face manipulation
+- Own Dataset
+	- identity+expression swap , FaceForensics++[42]
+	- face attribute manipulated images, FaceAPP[4]
+	- complete fake face images, StyleGAN[26] snd PGGAN[25]
+
+Proposal
+- pose manipulated face detection as a **binary classification** problem using a CNN-based network 
+- we propose to utilize the attention mechanism to process the feature maps of the classifier model. 
+	- the learned attention maps can highlight the regions in an image which influence the CNN's decision, and further be used to guide the CNN to discover more discriminative features.
+
+Motivation for the attention map 
+
 # References
 
 
