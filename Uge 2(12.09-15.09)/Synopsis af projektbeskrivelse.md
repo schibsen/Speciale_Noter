@@ -24,7 +24,12 @@ PAD 2D attacks
 
 CNN based methods perform better than feature-based, recently 
 - [[19,10,20,21] [[OneClass]]
-- 
+
+Binary classification
+- most of the methods handle the PAD problem as a binary classification problem.
+- which overfit to the known attacks resulting in poor generalization to unseen attacks.
+
+
 ## Digital 
 ## Adversarial 
 
