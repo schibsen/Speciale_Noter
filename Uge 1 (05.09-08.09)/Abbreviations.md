@@ -1,6 +1,7 @@
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 
 # A
+ACER -  Average Classification Error Rate
 AFR - Automated Face Recognition
 APCER - Attack Presentation Classification Error Rate
 AUC - Area under Curve (usually of ROC)
@@ -13,12 +14,19 @@ D-EER - Detection Equal Error Rate
 DET - Detection Error Tradeoff
 DFFD - Diverse Fake Face Dataset [[FFD]]
 DFL - Deep Face Lab [[FFD]] [2]
+DSUs - Domain Specific Units (in [[One-Class]] for lower layer features) 
 # E
 EER - Equal error rate
+EM - Expectation-Maximization[47][[One-Class]]
 # F
 FAR - False Accept Rate
+FCN - Fully Convolutional Network
 FDR - False Detection Rate
+FN - False Negative
+FP - False Positive
 FR - Face Recognition
+# H
+HTER - Half Total Error Rate
 # I
 IINC - Inverse Intersection Non-Containment [[FFD]]
 IoU - Intersection over Union
@@ -36,8 +44,13 @@ PBCA - Pixel-wise Binary Classification Accuracy
 # R
 ROC - Receiver Operating Characteristics (curves)
 # S
-SPL - self-paced learning
 SOTA - state-of-the-art
+SPL - self-paced learning
+SSR-FCN - Self-Supervised Regional Fully Convolutional Network 
 # T
 TAR - True Accept Rate
-TDR - True Detect Rate (usually at FDR __%)
+TDR - True Detect Rate (usually at FDR \_\_%)
+TN - True Negatives
+TP - True Positives
+
+

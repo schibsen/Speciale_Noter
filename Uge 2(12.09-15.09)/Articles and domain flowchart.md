@@ -4,7 +4,7 @@ flowchart TD
     B[Digital domain]  
     C[Adversarial domain]  
    
-    A --> A1[OneClass]   
+    A --> A1[One-Class]   
     
     A --> AB1[Mathias']    
     B --> AB1    

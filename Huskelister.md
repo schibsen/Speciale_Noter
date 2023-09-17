@@ -10,8 +10,11 @@
 
 
 # Future research
-- [ ] MixNet
-- [ ] auxiliary
+- [ ] MixNet [[UniFAD]]
+      - 
+- [x] auxiliary
+      - ![[Definitions#Auxiliary]] 
+ 
 - [ ] Xception
 - [ ] Viola-Jones Object Detection
 - [ ] Ensemble techniques like Cascade, LightGBM
@@ -24,7 +27,7 @@
 - [ ] ArcFace
 - [ ] ResNet100
 - [ ] RetinaFace
-- [ ] Multi-channel methods, what does that mean ? [[OneClass]] [11-17]
+- [ ] Multi-channel methods, what does that mean ? [[One-Class]] [11-17]
 - [ ] 
 
 # Questions

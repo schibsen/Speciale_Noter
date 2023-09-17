@@ -1,8 +1,11 @@
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
-#A
+# A
 ### Ablation study
 In general, an ablation study is a set of experiments in which components of a machine learning system are removed/replaced in order to measure the impact of these components on the performance of the system.
 
+### Auxiliary
+offering or providing help
+_Auxiliary_ is used in a wide range of capacities in English to describe a person or thing that assists another.
 # B
 ### Bi-class classifiers
 these classifiers are trained on both *bona fide presentations* (BPs) and attack presentations
@@ -25,7 +28,9 @@ use (something) to maximum advantage
 ### Morphing attack 
 *A morphing attack is a face image which is purposefully manipulated to be matched with the probe images of more than one identity*  \[[[SPL-MAD]]\]
 
-
+### Multi-Channel Convolutional Neural Network
+The main idea was to use the joint representation from multiple channels for PAD task, leveraging a pretrained face recognition network. 
+is constituted of an extended version of LightCNN model [45] adapted specifically for multi-channel PAD task.
 # O 
 ### One-class classifiers
 these classifiers are only trained on *bona fide presentations*, an image is then evaluated based on whether it is an anomaly or not. 

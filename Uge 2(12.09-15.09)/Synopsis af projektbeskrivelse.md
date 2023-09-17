@@ -8,22 +8,24 @@
 - methods get more advanced with the improvements in the AI world
 - counte research is needed
 ### Relevant sources 
-- [3,4] [[OneClass]]
+- [3,4] [[One-Class]]
 # Motivation for generalization 
 - well working MAD exist for specific attacks or specific domains, however trouble of generalizing well to unseen attacks and to other domains
 
+### physical 
+ Network Efficiency A majority of prior work on CNN-based face anti-spoofing employs architectures that are densely connected with thir- teen convolutional layers [1, 20, 51, 52, 54]. Even with the placement of skip connections, the number of learnable parameters exceed 2.7M . As we see in Table I, only a limited amount of training data4 is generally available in face anti-spoofing datasets. Limited data coupled with the large number of trainable parameters causes current approaches to overfit, leading to poor generalization performance under unknown attack scenarios [[SSRFCN]]
 ### Relevant sources 
-- [14] [[OneClass]]
+- [14] [[One-Class]]
 
 # Related work 
 [[Articles and domain flowchart]]
 # Related work in the Single domains 
 ## Physical 
 PAD 2D attacks 
-- [5-9] [[OneClass]]
+- [5-9] [[One-Class]]
 
 CNN based methods perform better than feature-based, recently 
-- [[19,10,20,21] [[OneClass]]
+- [[19,10,20,21] [[One-Class]]
 
 Binary classification
 - most of the methods handle the PAD problem as a binary classification problem.
@@ -31,9 +33,9 @@ Binary classification
 
 One-Class classifiers (OCCs)
 - OCC provides a straightforward way of handling the unseen attack scenario by modelling the distribution of the bona fide class alone !
-- Arashloo et al [22] and Nikisins eta al [23] [[OneClass]] have shown the effectiveness of one class methods against unseen attacks
+- Arashloo et al [22] and Nikisins eta al [23] [[One-Class]] have shown the effectiveness of one class methods against unseen attacks
     - the performance in known attack protocols was inferior to that of binary classifier, but better for unseen attacks.
-- Xiong et al [24][[OneClass]] used auto-encoders and ine-class classifiers with texture feature extraction, performed worse than CNN methods.
+- Xiong et al [24][[One-Class]] used auto-encoders and ine-class classifiers with texture feature extraction, performed worse than CNN methods.
 - 
 
 
