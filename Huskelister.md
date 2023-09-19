@@ -10,13 +10,15 @@
 
 
 # Future research
-- [ ] MixNet [[UniFAD]]
-      - 
+- [x] MixNet [[UniFAD]]
+      - Detection method [[MixNet]]
 - [x] auxiliary
       - ![[Definitions#Auxiliary]] 
  
-- [ ] Xception
-- [ ] Viola-Jones Object Detection
+- [x] Xception
+      - Classification method [[Xception]]
+- [x] Viola-Jones Object Detection
+      - [[Viola-Jones object Detection]]
 - [ ] Ensemble techniques like Cascade, LightGBM
 - [ ] backbone network meaning 
 - [ ] attention module 
