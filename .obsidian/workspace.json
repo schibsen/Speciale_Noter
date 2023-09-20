@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Wiki/Ensemble methods.md",
+                "file": "Logs/20.09.2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Wiki/Ensemble methods.md",
+                "file": "Logs/20.09.2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Wiki/Ensemble methods.md",
+                "file": "Logs/20.09.2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Wiki/Ensemble methods.md"
+                "file": "Logs/20.09.2023.md"
               }
             }
           },
@@ -211,9 +211,10 @@
   },
   "active": "7fb794a229181362",
   "lastOpenFiles": [
-    "Huskelister.md",
     "My Wiki/Ensemble methods.md",
+    "Logs/20.09.2023.md",
     "My Wiki/Viola-Jones object Detection.md",
+    "Huskelister.md",
     "My Wiki",
     "Articles/Classification/Xception.md",
     "Articles/Detection/MixNet.md",
@@ -246,7 +247,6 @@
     "Articles/Detection/FaceGuard.md",
     "Articles/Detection",
     "Articles/Classification",
-    "Logs/07.09.2023.md",
     "Praktisk/Screenshot fra intro møde med darmstadt.png"
   ]
 }
