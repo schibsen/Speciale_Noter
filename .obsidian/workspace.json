@@ -4,17 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "4c938202ff104483",
+        "id": "affd684dface7d38",
         "type": "tabs",
-        "dimension": 63.25503355704698,
+        "dimension": 27.134146341463417,
         "children": [
           {
-            "id": "76b1f5e4be8c5847",
+            "id": "14eec92da7bb6f74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/Classification/Xception.md",
+                "file": "My Wiki/Ensemble methods and models diagram.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29fdc43bff4e3251",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2396036ea26139f0",
+        "type": "tabs",
+        "dimension": 33.53658536585366,
+        "children": [
+          {
+            "id": "7f31381206793970",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Wiki/Optimizers.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,48 +52,36 @@
         ]
       },
       {
-        "id": "02d45a4026ddbd1e",
+        "id": "e7aa788fa8a41d07",
         "type": "tabs",
-        "dimension": 36.74496644295302,
+        "dimension": 39.329268292682926,
         "children": [
           {
-            "id": "01641176775ac5a5",
+            "id": "8a6617ad57147419",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uge 1 (05.09-08.09)/Relevante filer.md",
+                "file": "Logs/15.09.2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1540fc6d0a9ec90e",
+            "id": "41797d446566c370",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/08.09.2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7fb794a229181362",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Wiki/Ensemble methods.md",
+                "file": "Huskelister.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ArCFa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 236.5
   },
   "right": {
     "id": "35d86203477eb3b5",
@@ -138,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Wiki/Ensemble methods.md",
+                "file": "Huskelister.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Wiki/Ensemble methods.md",
+                "file": "Huskelister.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Wiki/Ensemble methods.md"
+                "file": "Huskelister.md"
               }
             }
           },
@@ -209,44 +226,77 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7fb794a229181362",
+  "floating": {
+    "id": "d5eb5e5c788714a8",
+    "type": "floating",
+    "children": [
+      {
+        "id": "7aca705f3f9c2259",
+        "type": "window",
+        "children": [
+          {
+            "id": "802bdb7a6d81130c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "67866bc76458d8b2",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2987,
+        "y": 509,
+        "width": 788,
+        "height": 1000,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "41797d446566c370",
   "lastOpenFiles": [
+    "Articles/Detection/First Differential Detection introduction.md",
     "Huskelister.md",
+    "Articles/PDF Articles/First Differential Detection - Deep Face Representations for Differential Morphing Attack Detection.pdf",
+    "Articles/PDF Articles/First Differential Detection - Deep Face Representations for Differential Morphing Attack Detection.pdf.opdownload",
+    "Articles/PDF Articles/Mathias - Differential Anomaly Detection for Facial Images.pdf",
+    "Articles/PDF Articles/Mathias - Differential Anomaly Detection for Facial Images.pdf.opdownload",
+    "Articles/PDF Articles/Mathias article Differential Anomaly Detection for Facial Images.pdf.opdownload",
+    "Articles/PDF Articles/Mathias article Differential Anomaly Detection for Facial Images.pdf",
+    "My Wiki/Losses.md",
+    "My Wiki/Diagram Loss and Optimizers.md",
+    "My Wiki/Optimizers.md",
     "My Wiki/Ensemble methods.md",
+    "My Wiki/Ensemble models.md",
+    "My Wiki/Face Recognition methods.md",
+    "My Wiki/Ensemble methods and models diagram.md",
+    "My Wiki/Cascaded structure.md",
+    "My Wiki/Backbone NN.md",
+    "My Wiki/Attention module.md",
+    "Logs/15.09.2023.md",
+    "Articles/Classification/Xception.md",
+    "My Wiki/Learning Paradigms.md",
+    "Uge 1 (05.09-08.09)/MADs flowchart.md",
+    "Wochenende.md",
+    "Articles/Detection/MixNet.md",
+    "Uge 1 (05.09-08.09)/Definitions.md",
+    "Articles/PDF Articles/Obsidian.1.4.13.exe",
+    "Articles/PDF Articles/Obsidian.1.4.13.exe.opdownload",
     "My Wiki/Viola-Jones object Detection.md",
     "My Wiki",
-    "Articles/Classification/Xception.md",
-    "Articles/Detection/MixNet.md",
-    "Logs/08.09.2023.md",
     "Logs/18.09.2023.md",
-    "Uge 3(18.09-22.09)",
-    "Articles/Detection/UniFAD.md",
-    "Articles/Detection/SSRFCN.md",
-    "Logs/12.09.2023.md",
-    "n.pub",
-    "n",
-    "Wochenende.md",
-    "Uge 2(12.09-15.09)/Synopsis af projektbeskrivelse.md",
-    "Uge 2(12.09-15.09)/Relevante filer.md",
-    "Uge 2(12.09-15.09)/Relevant Index Terms.md",
-    "Uge 2(12.09-15.09)/FR_uses.md",
-    "Uge 2(12.09-15.09)/Articles and domain flowchart.md",
-    "Uge 2(12.09-15.09)",
-    "Logs/15.09.2023.md",
-    "Logs/14.09.2023.md",
-    "Logs/13.09.2023.md",
-    "ChatGPT/diagram over face manipulation attacks.md",
-    "ChatGPT",
-    "Articles/PDF Articles/Xception - Deep Learning with Depthwise Separable Convolutions.pdf",
-    "Articles/PDF Articles/MixNet for Generalized Face Presentation Attack Detection.pdf",
-    "Articles/Detection/SPL-MAD.md",
-    "Articles/Detection/One-Class.md",
-    "Articles/Detection/Mathias Article.md",
-    "Articles/Detection/FFD.md",
     "Articles/Detection/FaceGuard.md",
+    "Articles/Detection/FFD.md",
+    "Articles/Tags.md",
+    "Uge 1 (05.09-08.09)/AI tools.md",
     "Articles/Detection",
-    "Articles/Classification",
-    "Logs/07.09.2023.md",
+    "Uge 1 (05.09-08.09)/Abbreviations.md",
     "Praktisk/Screenshot fra intro møde med darmstadt.png"
   ]
 }

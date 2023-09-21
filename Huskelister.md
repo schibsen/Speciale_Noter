@@ -19,15 +19,29 @@
       - Classification method [[Xception]]
 - [x] Viola-Jones Object Detection
       - [[Viola-Jones object Detection]]
-- [ ] Ensemble techniques like Cascade, LightGBM
-- [ ] backbone network meaning 
-- [ ] attention module 
-- [ ] SPL - self-paced learning
-- [ ] Multi-task Cascaded Convolutional Networks (MTCNN)
-- [ ] stochastic gradient descent (SGD)
+- [x] Ensemble techniques like Cascade, LightGBM
+      - [[Ensemble methods]]
+      - [[Ensemble models]]
+      - [[Ensemble methods and models diagram]]
+- [x] backbone network meaning 
+      - [[Backbone NN]]
+- [x] attention module 
+      - [[Attention module]]
+- [x] SPL - self-paced learning
+      - [[Learning Paradigms#Self-paced learning]]
+- [x] Multi-task Cascaded Convolutional Networks (MTCNN)
+      - [[Face Recognition methods#Multi-Task Cascaded Convolutional Networks (MTCNN)|MTCNN]]
+- [x] stochastic gradient descent (SGD)
+      - [[Optimizers#Stochastic Gradient Descent (SGD)|SGD]]
+      - [[Losses]]
+      - [[Optimizers]]
 - [ ] the first introduction of differential attack detection by Scherhag et al. cite no. 8 in [[Mathias Article]]
 - [ ] ArcFace
+      - Face Recognition method
+      - [[Face Recognition methods#ArcFace]]
 - [ ] ResNet100
+      - backbone method
+      - [[Backbone NN#ResNet]]
 - [ ] RetinaFace
 - [ ] Multi-channel methods, what does that mean ? [[One-Class]] [11-17]
 - [ ] 
