@@ -6,7 +6,6 @@
       {
         "id": "4c938202ff104483",
         "type": "tabs",
-        "dimension": 63.25503355704698,
         "children": [
           {
             "id": "76b1f5e4be8c5847",
@@ -14,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/Classification/Xception.md",
+                "file": "Uge 3(18.09-22.09)/Project description.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,48 +22,22 @@
         ]
       },
       {
-        "id": "02d45a4026ddbd1e",
+        "id": "198d7647a2663571",
         "type": "tabs",
-        "dimension": 36.74496644295302,
         "children": [
           {
-            "id": "01641176775ac5a5",
+            "id": "779d347f37fa7fb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uge 1 (05.09-08.09)/Relevante filer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1540fc6d0a9ec90e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logs/08.09.2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7fb794a229181362",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logs/20.09.2023.md",
-                "mode": "source",
+                "file": "Uge 3(18.09-22.09)/Project description.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logs/20.09.2023.md",
+                "file": "Uge 3(18.09-22.09)/Project description.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logs/20.09.2023.md",
+                "file": "Uge 3(18.09-22.09)/Project description.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logs/20.09.2023.md"
+                "file": "Uge 3(18.09-22.09)/Project description.md"
               }
             }
           },
@@ -209,44 +182,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7fb794a229181362",
+  "active": "779d347f37fa7fb6",
   "lastOpenFiles": [
-    "My Wiki/Ensemble methods.md",
-    "Logs/20.09.2023.md",
-    "My Wiki/Viola-Jones object Detection.md",
+    "Uge 1 (05.09-08.09)/Abbreviations.md",
+    "Uge 3(18.09-22.09)/Project description.md",
+    "Datasets/GrandFake.md",
+    "Articles/Detection/UniFAD.md",
     "Huskelister.md",
-    "My Wiki",
-    "Articles/Classification/Xception.md",
+    "Uge 1 (05.09-08.09)/Metrics.md",
+    "fast links.md",
+    "Datasets/DFR for MADs.md",
+    "Articles/Detection/Untitled 1.md",
+    "Articles/Detection/FFD.md",
+    "Articles/Detection/FaceGuard.md",
+    "Articles/Detection/Untitled.md",
+    "Articles/Detection/SSRFCN.md",
+    "Articles/Detection/SPL-MAD.md",
+    "Articles/Detection/One-Class.md",
     "Articles/Detection/MixNet.md",
+    "Articles/Detection/Mathias Article.md",
+    "Articles/PDF Articles/MI Differential_Anomaly_Detection_for_Facial_Images.pdf",
+    "Articles/Detection/MI Differential_Anomaly_Detection_for_Facial_Images.pdf.opdownload",
+    "Logs/20.09.2023.md",
+    "Articles/Classification/Xception.md",
+    "Uge 1 (05.09-08.09)/Relevante filer.md",
     "Logs/08.09.2023.md",
+    "My Wiki/Viola-Jones object Detection.md",
+    "My Wiki/Ensemble methods.md",
+    "My Wiki",
     "Logs/18.09.2023.md",
     "Uge 3(18.09-22.09)",
-    "Articles/Detection/UniFAD.md",
-    "Articles/Detection/SSRFCN.md",
     "Logs/12.09.2023.md",
     "n.pub",
     "n",
-    "Wochenende.md",
     "Uge 2(12.09-15.09)/Synopsis af projektbeskrivelse.md",
-    "Uge 2(12.09-15.09)/Relevante filer.md",
-    "Uge 2(12.09-15.09)/Relevant Index Terms.md",
-    "Uge 2(12.09-15.09)/FR_uses.md",
-    "Uge 2(12.09-15.09)/Articles and domain flowchart.md",
     "Uge 2(12.09-15.09)",
-    "Logs/15.09.2023.md",
-    "Logs/14.09.2023.md",
-    "Logs/13.09.2023.md",
-    "ChatGPT/diagram over face manipulation attacks.md",
     "ChatGPT",
     "Articles/PDF Articles/Xception - Deep Learning with Depthwise Separable Convolutions.pdf",
     "Articles/PDF Articles/MixNet for Generalized Face Presentation Attack Detection.pdf",
-    "Articles/Detection/SPL-MAD.md",
-    "Articles/Detection/One-Class.md",
-    "Articles/Detection/Mathias Article.md",
-    "Articles/Detection/FFD.md",
-    "Articles/Detection/FaceGuard.md",
-    "Articles/Detection",
-    "Articles/Classification",
     "Praktisk/Screenshot fra intro møde med darmstadt.png"
   ]
 }

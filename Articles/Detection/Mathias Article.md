@@ -85,4 +85,4 @@ Manipulation Tools used
 
 
 # PDF Article
-![[pdf]]
+![[MI Differential_Anomaly_Detection_for_Facial_Images.pdf]]
