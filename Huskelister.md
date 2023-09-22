@@ -47,5 +47,16 @@
 - [ ] 
 
 # Questions
-- [ ] are faceswap and id swap synonyms ? mathias uses face swap whereas UniFAD uses ID swap. 
+- [ ] are faceswap and id swap synonyms ? mathias uses face swap whereas UniFAD uses ID swap.  
+      - deepfakes, identity swap og face swap synoms isch 
+        - faceswap er mest konkret
 - [ ] are EER and D-EER the same thing ? what is correct to use ? 
+      - YES 
+      - sometimes D-EER because we also use EER to evaluate biometric systems
+
+- [ ] Deepfakes , bruger vi også 
+tabel over forskellige metoder
+- skriv hvilken metric der blev brugt 
+- usually dem der er biometri 
+  - alle dem Mathias har brugt i sin artikel. 
+  - 

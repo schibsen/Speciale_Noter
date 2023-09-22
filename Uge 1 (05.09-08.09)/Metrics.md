@@ -1,3 +1,10 @@
+In your hand in be ISO compliant. 
+- DET curves instead ROC
+- EER instead AUC
+- APCER 
+- BPCER
+
+
 # ISO/IEC 301073
 
 ### Attack Presentation Classification Error Rate (APCER)
