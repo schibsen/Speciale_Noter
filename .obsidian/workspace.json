@@ -6,7 +6,6 @@
       {
         "id": "affd684dface7d38",
         "type": "tabs",
-        "dimension": 27.134146341463417,
         "children": [
           {
             "id": "14eec92da7bb6f74",
@@ -14,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Wiki/Ensemble methods and models diagram.md",
+                "file": "Logs/23.09.2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,52 +28,45 @@
                 "currentVersion": "1.4.12"
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "2396036ea26139f0",
-        "type": "tabs",
-        "dimension": 33.53658536585366,
-        "children": [
+          },
           {
-            "id": "7f31381206793970",
+            "id": "94e1039823166a2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Wiki/Optimizers.md",
+                "file": "My Wiki/Face Recognition methods.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
-        "id": "e7aa788fa8a41d07",
+        "id": "1bd960b59dddebf3",
         "type": "tabs",
-        "dimension": 39.329268292682926,
         "children": [
           {
-            "id": "8a6617ad57147419",
+            "id": "b791c1fcce1c6321",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/15.09.2023.md",
+                "file": "Old Repos and code/MI - differential anomaly detection/Readme of repository.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "41797d446566c370",
+            "id": "decfe3391d5ac32d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Huskelister.md",
+                "file": "Articles/Detection/Mathias Article.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ArCFa",
+                "query": "XCS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,11 +127,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 316.5
   },
   "right": {
     "id": "35d86203477eb3b5",
@@ -155,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Huskelister.md",
+                "file": "Articles/Detection/Mathias Article.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Huskelister.md",
+                "file": "Articles/Detection/Mathias Article.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Huskelister.md"
+                "file": "Articles/Detection/Mathias Article.md"
               }
             }
           },
@@ -259,10 +252,28 @@
       }
     ]
   },
-  "active": "41797d446566c370",
+  "active": "decfe3391d5ac32d",
   "lastOpenFiles": [
-    "Articles/Detection/First Differential Detection introduction.md",
+    "Logs/23.09.2023.md",
+    "Old Repos and code/MI - differential anomaly detection/Getting started.md",
+    "Old Repos and code/MI - differential anomaly detection/Readme of repository.md",
+    "My Wiki/Face Recognition methods.md",
+    "Old Repos and code/MI - differential anomaly detection/Info.md",
+    "Old Repos and code/MI - differential anomaly detection",
+    "Old Repos and code",
+    "Overblik.md",
+    "Uge 3(18.09-22.09)/Project description.md",
+    "My Wiki/Ensemble methods and models diagram.md",
+    "fast links.md",
+    "Uge 3(18.09-22.09)",
+    "Logs/20.09.2023.md",
+    "Datasets/DFR for MADs.md",
+    "Articles/PDF Articles/MI Differential_Anomaly_Detection_for_Facial_Images.pdf",
+    "Articles/Detection/Untitled.md",
+    "Articles/Detection/Untitled 1.md",
+    "Wochenende.md",
     "Huskelister.md",
+    "Articles/Detection/First Differential Detection introduction.md",
     "Articles/PDF Articles/First Differential Detection - Deep Face Representations for Differential Morphing Attack Detection.pdf",
     "Articles/PDF Articles/First Differential Detection - Deep Face Representations for Differential Morphing Attack Detection.pdf.opdownload",
     "Articles/PDF Articles/Mathias - Differential Anomaly Detection for Facial Images.pdf",
@@ -274,29 +285,11 @@
     "My Wiki/Optimizers.md",
     "My Wiki/Ensemble methods.md",
     "My Wiki/Ensemble models.md",
-    "My Wiki/Face Recognition methods.md",
-    "My Wiki/Ensemble methods and models diagram.md",
     "My Wiki/Cascaded structure.md",
     "My Wiki/Backbone NN.md",
     "My Wiki/Attention module.md",
     "Logs/15.09.2023.md",
     "Articles/Classification/Xception.md",
-    "My Wiki/Learning Paradigms.md",
-    "Uge 1 (05.09-08.09)/MADs flowchart.md",
-    "Wochenende.md",
-    "Articles/Detection/MixNet.md",
-    "Uge 1 (05.09-08.09)/Definitions.md",
-    "Articles/PDF Articles/Obsidian.1.4.13.exe",
-    "Articles/PDF Articles/Obsidian.1.4.13.exe.opdownload",
-    "My Wiki/Viola-Jones object Detection.md",
-    "My Wiki",
-    "Logs/18.09.2023.md",
-    "Articles/Detection/FaceGuard.md",
-    "Articles/Detection/FFD.md",
-    "Articles/Tags.md",
-    "Uge 1 (05.09-08.09)/AI tools.md",
-    "Articles/Detection",
-    "Uge 1 (05.09-08.09)/Abbreviations.md",
     "Praktisk/Screenshot fra intro møde med darmstadt.png"
   ]
 }

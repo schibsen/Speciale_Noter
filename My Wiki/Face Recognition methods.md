@@ -32,5 +32,5 @@ CenterFace is a lightweight face detection and alignment framework that achieves
 SphereFace is a deep learning model that introduces angular margin loss to enhance the discriminative power of the learned face embeddings.
 # InsightFace
 InsightFace is a deep learning model that achieves high face recognition accuracy by using large-scale training data and advanced training techniques.
-# ArcFace
-ArcFace is a deep learning model that introduces an angular margin loss to enhance the discriminative power of the learned face embeddings.
+
+# AdaFace
