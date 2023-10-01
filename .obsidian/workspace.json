@@ -6,70 +6,57 @@
       {
         "id": "affd684dface7d38",
         "type": "tabs",
+        "dimension": 15.897435897435896,
         "children": [
-          {
-            "id": "14eec92da7bb6f74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logs/23.09.2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29fdc43bff4e3251",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
-          },
           {
             "id": "94e1039823166a2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Wiki/Face Recognition methods.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "1bd960b59dddebf3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b791c1fcce1c6321",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Old Repos and code/MI - differential anomaly detection/Readme of repository.md",
+                "file": "Uge 4 (26.09-29.09)/cheatsheet PDF models.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "decfe3391d5ac32d",
+            "id": "514cca620c76e03d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/Detection/Mathias Article.md",
+                "file": "Logs/28.09.2023.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e76ab99246e8d6b5",
+        "type": "tabs",
+        "dimension": 84.1025641025641,
+        "children": [
+          {
+            "id": "a726a67b3f880cbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Articles/Detection/Multi-task Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "724b5ff51083248f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -127,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/Detection/Mathias Article.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Articles/Detection/Mathias Article.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Articles/Detection/Mathias Article.md"
-              }
+              "state": {}
             }
           },
           {
@@ -219,77 +201,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "d5eb5e5c788714a8",
-    "type": "floating",
-    "children": [
-      {
-        "id": "7aca705f3f9c2259",
-        "type": "window",
-        "children": [
-          {
-            "id": "802bdb7a6d81130c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "67866bc76458d8b2",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2987,
-        "y": 509,
-        "width": 788,
-        "height": 1000,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "decfe3391d5ac32d",
+  "active": "724b5ff51083248f",
   "lastOpenFiles": [
-    "Logs/23.09.2023.md",
-    "Old Repos and code/MI - differential anomaly detection/Getting started.md",
-    "Old Repos and code/MI - differential anomaly detection/Readme of repository.md",
-    "My Wiki/Face Recognition methods.md",
-    "Old Repos and code/MI - differential anomaly detection/Info.md",
-    "Old Repos and code/MI - differential anomaly detection",
-    "Old Repos and code",
-    "Overblik.md",
-    "Uge 3(18.09-22.09)/Project description.md",
-    "My Wiki/Ensemble methods and models diagram.md",
-    "fast links.md",
-    "Uge 3(18.09-22.09)",
-    "Logs/20.09.2023.md",
-    "Datasets/DFR for MADs.md",
-    "Articles/PDF Articles/MI Differential_Anomaly_Detection_for_Facial_Images.pdf",
+    "Uge 4 (26.09-29.09)/cheatsheet PDF models.md",
     "Articles/Detection/Untitled.md",
-    "Articles/Detection/Untitled 1.md",
-    "Wochenende.md",
-    "Huskelister.md",
     "Articles/Detection/First Differential Detection introduction.md",
-    "Articles/PDF Articles/First Differential Detection - Deep Face Representations for Differential Morphing Attack Detection.pdf",
-    "Articles/PDF Articles/First Differential Detection - Deep Face Representations for Differential Morphing Attack Detection.pdf.opdownload",
-    "Articles/PDF Articles/Mathias - Differential Anomaly Detection for Facial Images.pdf",
-    "Articles/PDF Articles/Mathias - Differential Anomaly Detection for Facial Images.pdf.opdownload",
-    "Articles/PDF Articles/Mathias article Differential Anomaly Detection for Facial Images.pdf.opdownload",
-    "Articles/PDF Articles/Mathias article Differential Anomaly Detection for Facial Images.pdf",
-    "My Wiki/Losses.md",
-    "My Wiki/Diagram Loss and Optimizers.md",
-    "My Wiki/Optimizers.md",
-    "My Wiki/Ensemble methods.md",
-    "My Wiki/Ensemble models.md",
-    "My Wiki/Cascaded structure.md",
-    "My Wiki/Backbone NN.md",
-    "My Wiki/Attention module.md",
-    "Logs/15.09.2023.md",
-    "Articles/Classification/Xception.md",
-    "Praktisk/Screenshot fra intro møde med darmstadt.png"
+    "Articles/PDF Articles/Deep_Face_Representations_for_Differential_Morphing_Attack_Detection.pdf",
+    "Articles/PDF Articles/Deep_Face_Representations_for_Differential_Morphing_Attack_Detection.pdf.opdownload",
+    "Articles/Detection/Multi-task Learning.md",
+    "Articles/Detection/Images/Pasted image 20231001215503.png",
+    "Articles/Detection/Images/Pasted image 20231001215410.png",
+    "Articles/Detection/FaceForensics++.md",
+    "Articles/PDF Articles/Fake_Face_Detection_Methods_Can_They_Be_Generalized.pdf",
+    "Articles/PDF Articles/Fake_Face_Detection_Methods_Can_They_Be_Generalized.pdf.opdownload",
+    "Articles/PDF Articles/Transferable_Deep-CNN_Features_for_Detecting_Digital_and_Print-Scanned_Morphed_Face_Images.pdf",
+    "Articles/PDF Articles/Transferable_Deep-CNN_Features_for_Detecting_Digital_and_Print-Scanned_Morphed_Face_Images.pdf.opdownload",
+    "Articles/PDF Articles/Distinguishing_computer_graphics_from_natural_images_using_convolution_neural_networks.pdf",
+    "Articles/PDF Articles/Distinguishing_computer_graphics_from_natural_images_using_convolution_neural_networks.pdf.opdownload",
+    "Articles/PDF Articles/Recasting Residual-based Local Descriptors as Convolutional Neural Networks - an Application to Image Forgery Detection.pdf",
+    "Articles/PDF Articles/Recasting Residual-based Local Descriptors as Convolutional Neural Networks - an Application to Image Forgery Detection.pdf.opdownload",
+    "Articles/Images/Pasted image 20231001213327.png",
+    "Articles/Images/Pasted image 20231001213014.png",
+    "Articles/Images/Pasted image 20231001212840.png",
+    "Articles/Images/Pasted image 20231001212757.png",
+    "Articles/Images/Pasted image 20231001212714.png",
+    "Articles/Images/Pasted image 20231001212145.png",
+    "Articles/Detection/Deepfake RNN.md",
+    "Articles/Detection/MesoNet.md",
+    "Articles/Detection/Images/Pasted image 20230929155915.png",
+    "Articles/Detection/Images/Pasted image 20230929155712.png",
+    "Articles/Detection/Two-Stream.md",
+    "Articles/Detection/DL CNN for splicing.md",
+    "Articles/Detection/DL new conv.md",
+    "My Wiki/Convolutional Neural Networks.md",
+    "Articles/Detection/Median filtering.md",
+    "Logs/28.09.2023.md",
+    "Uge 4 (26.09-29.09)/Timeline mermaid.md",
+    "Articles/Detection/FaceGuard.md",
+    "Uge 1 (05.09-08.09)/Attack types flowchart.md",
+    "Uge 1 (05.09-08.09)/Abbreviations.md",
+    "Uge 4 (26.09-29.09)/Research Proposal.md",
+    "Uge 1 (05.09-08.09)/Metrics.md",
+    "Articles/Detection/One-Class.md",
+    "Articles/Detection/UniFAD.md",
+    "Articles/Detection/SPL-MAD.md",
+    "Logs/27.09.2023.md",
+    "Articles/Detection/MixNet.md",
+    "Articles/Detection/SSRFCN.md"
   ]
 }

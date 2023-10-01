@@ -11,6 +11,10 @@
 	- where <HOME_DIR> is the path to the home directory of the user that runs the code
 	- mads siger min Home_Dir er : C:\\Users\\Mads\
 
+- [ ] download data 
+      - link: [https://cloud.h-da.de/s/pnJsYwt4RKzrGGd](https://cloud.h-da.de/s/pnJsYwt4RKzrGGd
+      - password: ixPX1jHPsAy
+
 - [ ] create a new environment for this repo 
 	- download and install new version of python 
 	- has been installed in the following path 
