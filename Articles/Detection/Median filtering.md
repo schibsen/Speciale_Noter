@@ -43,3 +43,4 @@ Title: Median Filtering Forensics Based on Convolutional Neural Networks
 **references to detection methods**
 - 
 # PDF 
+![[Median_Filtering_Forensics_Based_on_Convolutional_Neural_Networks.pdf]]

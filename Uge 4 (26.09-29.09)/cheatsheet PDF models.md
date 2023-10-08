@@ -23,4 +23,6 @@ Title:
 - 
 **references to detection methods**
 - 
+**references to localization manipulation methods**
+- 
 # PDF 

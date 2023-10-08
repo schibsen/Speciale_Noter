@@ -45,3 +45,4 @@ Title: FaceForensics++: Learning to Detect Manipulated Facial Images
 - other works propose a deep network trained to capture the subtle inconsistencies arising from low-level and/or high level features [50, 66, 38, 5, 33].
 
 # PDF 
+![[FaceForensics++- Learning to Detect Manipulated Facial Images.pdf]]

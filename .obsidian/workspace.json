@@ -4,40 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "affd684dface7d38",
-        "type": "tabs",
-        "dimension": 15.897435897435896,
-        "children": [
-          {
-            "id": "94e1039823166a2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Uge 4 (26.09-29.09)/cheatsheet PDF models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "514cca620c76e03d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logs/28.09.2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "e76ab99246e8d6b5",
         "type": "tabs",
-        "dimension": 84.1025641025641,
         "children": [
           {
             "id": "a726a67b3f880cbf",
@@ -55,12 +23,40 @@
             "id": "724b5ff51083248f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Uge 1 (05.09-08.09)/Attack types flowchart.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9130ea0949982c75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Articles/Detection/FaceGuard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb2405ede6679033",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Old Repos and code/MI - differential anomaly detection/Readme of repository.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Old Repos and code/MI - differential anomaly detection/Readme of repository.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Old Repos and code/MI - differential anomaly detection/Readme of repository.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Old Repos and code/MI - differential anomaly detection/Readme of repository.md"
+              }
             }
           },
           {
@@ -201,52 +201,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "724b5ff51083248f",
+  "active": "eb2405ede6679033",
   "lastOpenFiles": [
-    "Uge 4 (26.09-29.09)/cheatsheet PDF models.md",
-    "Articles/Detection/Untitled.md",
+    "Old Repos and code/MI - differential anomaly detection/Info.md",
+    "Old Repos and code/MI - differential anomaly detection/Getting started.md",
+    "Uge 5 (02.10-06.10)/Setup DTU.md",
+    "Uge 5 (02.10-06.10)/Møde m. mathias.md",
+    "Articles/PDF Articles/ArcFace - Additive angular Margin Loss for Deep Face Recognition.pdf",
+    "Articles/PDF Articles/ArcFace - Additive angular Margin Loss for Deep Face Recognition.pdf.opdownload",
+    "Articles/PDF Articles/Custom_silicone_Face_Masks_Vulnerability_of_Commercial_Face_Recognition_Systems_amp_Presentation_Attack_Detection.pdf",
+    "Articles/PDF Articles/Custom_silicone_Face_Masks_Vulnerability_of_Commercial_Face_Recognition_Systems_amp_Presentation_Attack_Detection.pdf.opdownload",
+    "Articles/PDF Articles/Makeup_Presentation_Attack_Potential_Revisited_Skills_Pay_the_Bills.pdf",
+    "Articles/PDF Articles/Makeup_Presentation_Attack_Potential_Revisited_Skills_Pay_the_Bills.pdf.opdownload",
+    "Articles/PDF Articles/Multispectral_Deep_Embeddings_as_a_Countermeasure_to_Custom_Silicone_Mask_Presentation_Attacks.pdf",
+    "Articles/PDF Articles/Multispectral_Deep_Embeddings_as_a_Countermeasure_to_Custom_Silicone_Mask_Presentation_Attacks.pdf.opdownload",
+    "fast links.md",
+    "Uge 4 (26.09-29.09)/Research Proposal.md",
+    "Uge 4 (26.09-29.09)/Timeline mermaid.md",
+    "Articles/Detection/SPL-MAD.md",
+    "Uge 5 (02.10-06.10)/To DOs project plan.md",
+    "Articles/Detection/FaceGuard.md",
     "Articles/Detection/First Differential Detection introduction.md",
-    "Articles/PDF Articles/Deep_Face_Representations_for_Differential_Morphing_Attack_Detection.pdf",
-    "Articles/PDF Articles/Deep_Face_Representations_for_Differential_Morphing_Attack_Detection.pdf.opdownload",
+    "Articles/Detection/MixNet.md",
     "Articles/Detection/Multi-task Learning.md",
+    "Articles/Detection/OC-FakeDect.md",
+    "Articles/Detection/One-Class.md",
+    "Articles/Detection/Two-Stream.md",
+    "Articles/Detection/UniFAD.md",
+    "Articles/Detection/SSRFCN.md",
+    "Articles/Detection/FaceForensics++.md",
+    "Articles/PDF Articles/veryolddetection/Exposing_image_splicing_with_inconsistent_local_noise_variances.pdf",
+    "Articles/PDF Articles/veryolddetection/Exposing_image_splicing_with_inconsistent_local_noise_variances.pdf.opdownload",
+    "Articles/Detection/Median filtering.md",
+    "Articles/Detection/MesoNet.md",
+    "Articles/Detection/Mathias Article.md",
+    "Articles/Detection/FFD.md",
+    "Articles/Detection/Face X-ray.md",
+    "Articles/Detection/DL new conv.md",
+    "Articles/Detection/DL CNN for splicing.md",
+    "Uge 5 (02.10-06.10)/PhysicalManipulations.JPG",
+    "Uge 5 (02.10-06.10)/DigitalManipulations.JPG",
+    "Articles/Detection/Images/Pasted image 20231002144605.png",
+    "Articles/Detection/Images/Pasted image 20231002144501.png",
+    "Articles/Detection/Images/Pasted image 20231002142637.png",
+    "Articles/Detection/Images/Pasted image 20231002140000.png",
+    "Articles/Detection/Images/Pasted image 20231002130948.png",
     "Articles/Detection/Images/Pasted image 20231001215503.png",
     "Articles/Detection/Images/Pasted image 20231001215410.png",
-    "Articles/Detection/FaceForensics++.md",
-    "Articles/PDF Articles/Fake_Face_Detection_Methods_Can_They_Be_Generalized.pdf",
-    "Articles/PDF Articles/Fake_Face_Detection_Methods_Can_They_Be_Generalized.pdf.opdownload",
-    "Articles/PDF Articles/Transferable_Deep-CNN_Features_for_Detecting_Digital_and_Print-Scanned_Morphed_Face_Images.pdf",
-    "Articles/PDF Articles/Transferable_Deep-CNN_Features_for_Detecting_Digital_and_Print-Scanned_Morphed_Face_Images.pdf.opdownload",
-    "Articles/PDF Articles/Distinguishing_computer_graphics_from_natural_images_using_convolution_neural_networks.pdf",
-    "Articles/PDF Articles/Distinguishing_computer_graphics_from_natural_images_using_convolution_neural_networks.pdf.opdownload",
-    "Articles/PDF Articles/Recasting Residual-based Local Descriptors as Convolutional Neural Networks - an Application to Image Forgery Detection.pdf",
-    "Articles/PDF Articles/Recasting Residual-based Local Descriptors as Convolutional Neural Networks - an Application to Image Forgery Detection.pdf.opdownload",
-    "Articles/Images/Pasted image 20231001213327.png",
-    "Articles/Images/Pasted image 20231001213014.png",
-    "Articles/Images/Pasted image 20231001212840.png",
-    "Articles/Images/Pasted image 20231001212757.png",
-    "Articles/Images/Pasted image 20231001212714.png",
-    "Articles/Images/Pasted image 20231001212145.png",
-    "Articles/Detection/Deepfake RNN.md",
-    "Articles/Detection/MesoNet.md",
-    "Articles/Detection/Images/Pasted image 20230929155915.png",
-    "Articles/Detection/Images/Pasted image 20230929155712.png",
-    "Articles/Detection/Two-Stream.md",
-    "Articles/Detection/DL CNN for splicing.md",
-    "Articles/Detection/DL new conv.md",
-    "My Wiki/Convolutional Neural Networks.md",
-    "Articles/Detection/Median filtering.md",
-    "Logs/28.09.2023.md",
-    "Uge 4 (26.09-29.09)/Timeline mermaid.md",
-    "Articles/Detection/FaceGuard.md",
-    "Uge 1 (05.09-08.09)/Attack types flowchart.md",
-    "Uge 1 (05.09-08.09)/Abbreviations.md",
-    "Uge 4 (26.09-29.09)/Research Proposal.md",
-    "Uge 1 (05.09-08.09)/Metrics.md",
-    "Articles/Detection/One-Class.md",
-    "Articles/Detection/UniFAD.md",
-    "Articles/Detection/SPL-MAD.md",
-    "Logs/27.09.2023.md",
-    "Articles/Detection/MixNet.md",
-    "Articles/Detection/SSRFCN.md"
+    "Articles/Images/Pasted image 20231001213327.png"
   ]
 }
