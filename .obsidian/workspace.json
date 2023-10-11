@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Old Repos and code/MI - differential anomaly detection/Readme of repository.md",
+                "file": "fast links.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Repos and code/MI - differential anomaly detection/Readme of repository.md",
+                "file": "fast links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Old Repos and code/MI - differential anomaly detection/Readme of repository.md",
+                "file": "fast links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Old Repos and code/MI - differential anomaly detection/Readme of repository.md"
+                "file": "fast links.md"
               }
             }
           },
@@ -203,6 +203,7 @@
   },
   "active": "eb2405ede6679033",
   "lastOpenFiles": [
+    "Old Repos and code/MI - differential anomaly detection/Readme of repository.md",
     "Old Repos and code/MI - differential anomaly detection/Info.md",
     "Old Repos and code/MI - differential anomaly detection/Getting started.md",
     "Uge 5 (02.10-06.10)/Setup DTU.md",
@@ -238,7 +239,6 @@
     "Articles/Detection/FFD.md",
     "Articles/Detection/Face X-ray.md",
     "Articles/Detection/DL new conv.md",
-    "Articles/Detection/DL CNN for splicing.md",
     "Uge 5 (02.10-06.10)/PhysicalManipulations.JPG",
     "Uge 5 (02.10-06.10)/DigitalManipulations.JPG",
     "Articles/Detection/Images/Pasted image 20231002144605.png",
