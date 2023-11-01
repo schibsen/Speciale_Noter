@@ -6,6 +6,7 @@
       {
         "id": "e76ab99246e8d6b5",
         "type": "tabs",
+        "dimension": 45.96153846153846,
         "children": [
           {
             "id": "a726a67b3f880cbf",
@@ -25,19 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uge 1 (05.09-08.09)/Attack types flowchart.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9130ea0949982c75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Articles/Detection/FaceGuard.md",
+                "file": "Uge 9 (30.10-06.11)/Face Recognition.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +38,56 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fast links.md",
+                "file": "Uge 8 (23.10-29.10)/create embeddings.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
+      },
+      {
+        "id": "5a4794ba0b4b9154",
+        "type": "tabs",
+        "dimension": 54.03846153846153,
+        "children": [
+          {
+            "id": "9130ea0949982c75",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Articles/PDF Articles/Mathias article Differential Anomaly Detection for Facial Images.pdf"
+              }
+            }
+          },
+          {
+            "id": "8246edd38d6de3c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uge 1 (05.09-08.09)/Metrics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9170cc747607fda9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uge 9 (30.10-06.11)/Møde med mathias.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "XCS",
+                "query": "EER",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fast links.md",
+                "file": "Uge 9 (30.10-06.11)/Møde med mathias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fast links.md",
+                "file": "Uge 9 (30.10-06.11)/Møde med mathias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fast links.md"
+                "file": "Uge 9 (30.10-06.11)/Møde med mathias.md"
               }
             }
           },
@@ -201,45 +232,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb2405ede6679033",
+  "active": "9170cc747607fda9",
   "lastOpenFiles": [
-    "Old Repos and code/MI - differential anomaly detection/Readme of repository.md",
-    "Old Repos and code/MI - differential anomaly detection/Info.md",
+    "Uge 9 (30.10-06.11)/Face Recognition.md",
+    "Uge 9 (30.10-06.11)/Feature Extractors.md",
+    "Uge 9 (30.10-06.11)/Møde med mathias.md",
+    "Uge 9 (30.10-06.11)/Pretrained model formats.md",
+    "fast links.md",
+    "Uge 9 (30.10-06.11)/Images/Pasted image 20231031124523.png",
+    "Uge 9 (30.10-06.11)/Images",
+    "Uge 1 (05.09-08.09)/Attack types flowchart.md",
+    "HPC Note.md",
+    "Uge 9 (30.10-06.11)",
+    "Uge 1 (05.09-08.09)/Metrics.md",
+    "Untitled",
+    "Uge 1 (05.09-08.09)/Abbreviations.md",
+    "Logs/Oktober/27.10.2023.md",
+    "Logs/Oktober/24.10.2023.md",
+    "Logs/September/28.09.2023.md",
+    "Logs/Oktober",
+    "Logs/September/26.09.2023.md",
+    "Logs/September/06.09.2023.md",
+    "Logs/Untitled.md",
+    "Logs/September",
     "Old Repos and code/MI - differential anomaly detection/Getting started.md",
-    "Uge 5 (02.10-06.10)/Setup DTU.md",
-    "Uge 5 (02.10-06.10)/Møde m. mathias.md",
+    "Logs/September/23.09.2023.md",
+    "Logs/September/20.09.2023.md",
+    "Logs/September/18.09.2023.md",
+    "Logs/September/14.09.2023.md",
+    "Logs/September/08.09.2023.md",
+    "Logs/September/12.09.2023.md",
+    "Logs/September/13.09.2023.md",
+    "Logs/September/15.09.2023.md",
+    "Uge 8 (23.10-29.10)/create embeddings.md",
+    "Overblik.md",
+    "Uge 5 (02.10-06.10)/PhysicalManipulations.JPG",
+    "Articles/PDF Articles/Mathias article Differential Anomaly Detection for Facial Images.pdf",
+    "Uge 8 (23.10-29.10)",
     "Articles/PDF Articles/ArcFace - Additive angular Margin Loss for Deep Face Recognition.pdf",
     "Articles/PDF Articles/ArcFace - Additive angular Margin Loss for Deep Face Recognition.pdf.opdownload",
     "Articles/PDF Articles/Custom_silicone_Face_Masks_Vulnerability_of_Commercial_Face_Recognition_Systems_amp_Presentation_Attack_Detection.pdf",
-    "Articles/PDF Articles/Custom_silicone_Face_Masks_Vulnerability_of_Commercial_Face_Recognition_Systems_amp_Presentation_Attack_Detection.pdf.opdownload",
-    "Articles/PDF Articles/Makeup_Presentation_Attack_Potential_Revisited_Skills_Pay_the_Bills.pdf",
-    "Articles/PDF Articles/Makeup_Presentation_Attack_Potential_Revisited_Skills_Pay_the_Bills.pdf.opdownload",
-    "Articles/PDF Articles/Multispectral_Deep_Embeddings_as_a_Countermeasure_to_Custom_Silicone_Mask_Presentation_Attacks.pdf",
-    "Articles/PDF Articles/Multispectral_Deep_Embeddings_as_a_Countermeasure_to_Custom_Silicone_Mask_Presentation_Attacks.pdf.opdownload",
-    "fast links.md",
-    "Uge 4 (26.09-29.09)/Research Proposal.md",
-    "Uge 4 (26.09-29.09)/Timeline mermaid.md",
-    "Articles/Detection/SPL-MAD.md",
-    "Uge 5 (02.10-06.10)/To DOs project plan.md",
-    "Articles/Detection/FaceGuard.md",
-    "Articles/Detection/First Differential Detection introduction.md",
-    "Articles/Detection/MixNet.md",
-    "Articles/Detection/Multi-task Learning.md",
-    "Articles/Detection/OC-FakeDect.md",
-    "Articles/Detection/One-Class.md",
-    "Articles/Detection/Two-Stream.md",
-    "Articles/Detection/UniFAD.md",
-    "Articles/Detection/SSRFCN.md",
-    "Articles/Detection/FaceForensics++.md",
-    "Articles/PDF Articles/veryolddetection/Exposing_image_splicing_with_inconsistent_local_noise_variances.pdf",
-    "Articles/PDF Articles/veryolddetection/Exposing_image_splicing_with_inconsistent_local_noise_variances.pdf.opdownload",
-    "Articles/Detection/Median filtering.md",
-    "Articles/Detection/MesoNet.md",
-    "Articles/Detection/Mathias Article.md",
-    "Articles/Detection/FFD.md",
-    "Articles/Detection/Face X-ray.md",
-    "Articles/Detection/DL new conv.md",
-    "Uge 5 (02.10-06.10)/PhysicalManipulations.JPG",
     "Uge 5 (02.10-06.10)/DigitalManipulations.JPG",
     "Articles/Detection/Images/Pasted image 20231002144605.png",
     "Articles/Detection/Images/Pasted image 20231002144501.png",
@@ -247,7 +279,6 @@
     "Articles/Detection/Images/Pasted image 20231002140000.png",
     "Articles/Detection/Images/Pasted image 20231002130948.png",
     "Articles/Detection/Images/Pasted image 20231001215503.png",
-    "Articles/Detection/Images/Pasted image 20231001215410.png",
-    "Articles/Images/Pasted image 20231001213327.png"
+    "Articles/Detection/Images/Pasted image 20231001215410.png"
   ]
 }
