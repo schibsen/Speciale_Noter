@@ -1,0 +1,6 @@
+/* Custom CSS for Obsidian */
+
+/* Reduce font size of text inside code blocks in notes with the class 'code-font-size' */
+.markdown-preview-view .code-font-size pre code {
+    font-size: 2px; /* Adjust the font size as needed */
+}
