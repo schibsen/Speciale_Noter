@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uge 10 (13.11 -19.11)/Log 19.11.23.md",
+                "file": "Uge 11(21.11 -26.11)/møde med mathias.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2e9e0942615e3aff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35b113a56299b637",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uge 9 (30.10-06.11)/Møde med mathias.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "right": {
     "id": "35d86203477eb3b5",
@@ -94,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uge 10 (13.11 -19.11)/Log 19.11.23.md",
+                "file": "Uge 11(21.11 -26.11)/møde med mathias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uge 10 (13.11 -19.11)/Log 19.11.23.md",
+                "file": "Uge 11(21.11 -26.11)/møde med mathias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uge 10 (13.11 -19.11)/Log 19.11.23.md"
+                "file": "Uge 11(21.11 -26.11)/møde med mathias.md"
               }
             }
           },
@@ -167,20 +184,24 @@
   },
   "active": "1749409de00210c8",
   "lastOpenFiles": [
-    "Uge 10 (13.11 -19.11)/Log 18.11.23.md",
+    "Uge 11(21.11 -26.11)/Log 21.11.23.md",
+    "Uge 11(21.11 -26.11)/møde med mathias.md",
+    "fast links.md",
+    "Uge 9 (30.10-06.11)/Møde med mathias.md",
+    "Uge 9 (30.10-06.11)/Face Recognition.md",
+    "Uge 10 (13.11 -19.11)/Møde.md",
     "Uge 10 (13.11 -19.11)/Log 19.11.23.md",
+    "Uge 11(21.11 -26.11)",
+    "Uge 10 (13.11 -19.11)/Log 18.11.23.md",
     "Uge 9 (30.10-06.11)/Pretrained model formats.md",
     "Uge 10 (13.11 -19.11)/Log 17.11.23.md",
     "Uge 10 (13.11 -19.11)/Log 16.11.23.md",
     "Articles/PDF Articles/28164308_1977316675616254_4855807820480667177_o.jpg",
     "Articles/PDF Articles/28164308_1977316675616254_4855807820480667177_o.jpg.opdownload",
     "Uge 8 (23.10-29.10)/create embeddings.md",
-    "Uge 9 (30.10-06.11)/Face Recognition.md",
     "Articles/Detection/Multi-task Learning.md",
     "Articles/PDF Articles/Mathias article Differential Anomaly Detection for Facial Images.pdf",
     "Uge 1 (05.09-08.09)/Metrics.md",
-    "Uge 10 (13.11 -19.11)/Møde.md",
-    "fast links.md",
     "Uge 10 (13.11 -19.11)/Datasets used for training.md",
     "Articles/ViT in FR/UIA-ViT.md",
     "Articles/ViT in FR/Face Transformer for Recognition.md",
@@ -193,8 +214,6 @@
     "Articles/PDF Articles/Part-based Face Recognition with VIsion Transformers.pdf",
     "Articles/PDF Articles/Part-based Face Recognition with VIsion Transformers.pdf.opdownload",
     "Articles/PDF Articles/BIOSIG2023_Paper_12_LNI.pdf",
-    "Articles/ViT in FR",
-    "Uge 9 (30.10-06.11)/Møde med mathias.md",
     "Uge 9 (30.10-06.11)/Feature Extractors.md",
     "Uge 9 (30.10-06.11)/Images/Pasted image 20231031124523.png",
     "Uge 1 (05.09-08.09)/Attack types flowchart.md",
@@ -203,8 +222,6 @@
     "Logs/Oktober/27.10.2023.md",
     "Logs/Oktober/24.10.2023.md",
     "Logs/September/28.09.2023.md",
-    "Logs/September/26.09.2023.md",
-    "Logs/September/06.09.2023.md",
     "Uge 5 (02.10-06.10)/PhysicalManipulations.JPG",
     "Uge 5 (02.10-06.10)/DigitalManipulations.JPG",
     "Articles/Detection/Images/Pasted image 20231002144605.png",
